@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "eveins",
+    "password": "8844",
+    "database": "fd_todo_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "eveins",
+    "password": "8844",
+    "database": "fd_todo_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "eveins",
+    "password": "8844",
+    "database": "fd_todo_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
